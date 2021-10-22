@@ -1,1 +1,2 @@
 demo.value1=dallas
+demo.value2=max
